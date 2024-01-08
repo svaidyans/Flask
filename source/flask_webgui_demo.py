@@ -12,7 +12,7 @@ CORS( app )
 
 @app.route( "/" )
 def home():
-	return render_template( "index_flaskwebgui.html" )
+	return render_template( "index.html" )
 
 # Static routing
 @app.route( "/greet/RVU" )
