@@ -2,7 +2,7 @@
   <img src="images/flask.png" width="110" height="125"></img>
 </p>
 
-<h1>Full stack Web and Desktop app development with Flask</h1>
+<h1 style="text-align: center">Full stack Web and Desktop app development with Flask</h1>
 I am teaching **"Building Apps with Python"** course to 1st year under-grad students pursuing Bachelor of Technology in Computer Science and Engineering.  
 
 One of the course outcome is to equip students with knowledge of creating a minimalist web app and a desktop app.  Being a micro web framework with built-in web server and with its capability to allow reuse of 99% of the codebase for creating a web app as well as desktop app (targeting both Windows and Mac), Flask is the ideal choice for this use case.
