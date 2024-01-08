@@ -1,4 +1,4 @@
-<p align="center"
+<p align="center">
   <img src="images/flask.png"></img>
 </p>
 # Full stack Web and Desktop app development with Flask
