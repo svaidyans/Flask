@@ -2,7 +2,7 @@
   <img src="images/flask.png" width="110" height="125"></img>
 </p>
 
-# Full stack Web and Desktop app development with Flask
+<h1>Full stack Web and Desktop app development with Flask</h1>
 
 ## Introduction
 I am teaching **"Building Apps with Python"** course to 1st year under-grad students pursuing Bachelor of Technology in Computer Science and Engineering.  
