@@ -21,4 +21,7 @@ The intention is search for and retrieve student(s) information like Name, Email
 - Flask-Cors 3.0.10
 - flaskwebgui 1.0.8
 - SQLite3
-- HTML, CSS, XMLHttpRequest 
+- HTML, CSS, XMLHttpRequest
+
+## Source Code
+The "source" folder 
