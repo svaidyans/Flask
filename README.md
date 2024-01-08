@@ -14,3 +14,11 @@ The intention is search for and retrieve student(s) information like Name, Email
 <p align="center">
   <img src="images/sis.png"></img>
 </p>
+
+## Software stack
+- Python 3.9
+- Flask 2.2.3
+- Flask-Cors 3.0.10
+- flaskwebgui 1.0.8
+- SQLite3
+- HTML, CSS, XMLHttpRequest 
