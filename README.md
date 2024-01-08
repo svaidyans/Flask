@@ -22,7 +22,7 @@ The intention is search for and retrieve student(s) information like Name, Email
 - HTML, CSS, JavaScript, RESTful API
 
 ## Source Code
-The (https://github.com/svaidyans/Flask/tree/main/source)[source] folder contains the Python and HTML code.
+The [source](https://github.com/svaidyans/Flask/tree/main/source) folder contains the Python and HTML code.
 
 ## Executables
 
