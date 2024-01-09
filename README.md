@@ -40,8 +40,19 @@ A simple app to search for and retrieve student(s) information like Name, Email,
 ## Source Code
 The [source](https://github.com/svaidyans/Flask/tree/main/source) folder contains all the source code.
 
+## Running
+### Web App
+- From a Terminal (Mac) or Command Prompt (Windows) run "python3 flask_webapp_demo.py"
+- Open "index.html" in a browser tab
+
+### Mac/Windows App
+- From a Terminal (Mac) or Command Prompt (Windows) run "python3 flask_webgui_demo.py"
+- This will automatically open a desktop window with the front-end HTML code
+
 ## Desktop Apps
 Another advantage of developing a desktop app with Flask (using package FlaskWebGui) is that it just spawns a new flask server thread with a browser, making the app a [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) with just 2 additional lines of code!  
 
-The desktop apps zip file is available in the [dapps](https://github.com/svaidyans/Flask/tree/main/dapps) folder.  
+To create an installer app (Mac) or exe (Windows) use [Pyinstaller](https://pyinstaller.org/en/stable/).
+
+The already precompiled desktop apps zip file is available in the [dapps](https://github.com/svaidyans/Flask/tree/main/dapps) folder.  
 
