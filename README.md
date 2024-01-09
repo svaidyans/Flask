@@ -5,12 +5,14 @@
 # Full stack Web and Desktop app development with Flask
 I am teaching Computer Science courses to 1st year under-grad students pursuing Bachelor of Technology.
 
-A course being taught is *_"Building Apps with Python"_*.  One of the course outcome is to equip students with knowledge of creating a minimalist web app and a desktop app.  Being a micro web framework with built-in web server and with its capability to allow reuse of 99% of the codebase for creating a web app as well as desktop app (targeting both Windows and Mac), Flask is the ideal choice for this use case.
+One of the course is *_"Building Apps with Python"_*.  A course outcome is to equip students with knowledge of creating a minimalist web app and a desktop app, with Python as the backend server-side coding.  
 
-For developing desktop apps, we will be using the FlaskWebGui package.
+Being a micro web framework with a built-in web server and with its capability to allow reuse of 99% of the codebase for creating a web app as well as desktop app (targeting both Windows and Mac), Flask is the ideal choice for this use case.
+
+For developing desktop apps, the [FlaskWebGui](https://github.com/ClimenteA/flaskwebgui) package.
 
 ## App requirements
-The intention is search for and retrieve student(s) information like Name, Email, Batch, USN, ID, Section stored in a database and display in a table.  A wireframe is as below:
+A simple app to search for and retrieve student(s) information like Name, Email, Batch, USN, ID, Section stored in a database and display in a table.  A wireframe is as below:
 <p align="center">
   <img src="images/sis.png"></img>
 </p>
@@ -24,10 +26,10 @@ The intention is search for and retrieve student(s) information like Name, Email
 - HTML, CSS, JavaScript, RESTful API
 
 ## Source Code
-The [source](https://github.com/svaidyans/Flask/tree/main/source) folder contains the Python and HTML code.
+The [source](https://github.com/svaidyans/Flask/tree/main/source) folder contains all the source code.
 
 ## Desktop Apps
-Another advantage of developing a desktop app with Flask (using package FlaskWebGui) is that it just spawns a new flask server thread with a browser, making the app a [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).  
+Another advantage of developing a desktop app with Flask (using package FlaskWebGui) is that it just spawns a new flask server thread with a browser, making the app a [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) with just 2 additional lines of code!  
 
 The desktop apps are available in the [dapps](https://github.com/svaidyans/Flask/tree/main/dapps) folder.  
 
