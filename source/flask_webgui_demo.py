@@ -50,7 +50,7 @@ def getDetails( Name ):
   except Error as e:
     return( "Error while trying to query students.db: " + str( e ) )
 
-ui = FlaskUI( app = app, width = 500, height = 500, server = "flask", port = "9001"  )
+ui = FlaskUI( app = app, width = 1024, height = 768, server = "flask", port = "9001"  )
 
 if __name__ == "__main__":
 	ui.run()
