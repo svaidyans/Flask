@@ -13,7 +13,7 @@ For developing desktop apps, the [FlaskWebGui](https://github.com/ClimenteA/flas
 
 A representative architecture of a Flask app is as below:
 <p align="center">
-  <img src="images/arch.png" width="512px" height="64px"></img>
+  <img src="images/arch.png" width="512px" height="128px"></img>
 </p>
 
 ## App requirements
