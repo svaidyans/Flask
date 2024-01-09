@@ -11,6 +11,11 @@ Being a micro web framework with a built-in web server and with its capability t
 
 For developing desktop apps, the [FlaskWebGui](https://github.com/ClimenteA/flaskwebgui) package is used.
 
+A representative architecture of a Flask app is as below:
+<p align="center">
+  <img src="images/arch.png"></img>
+</p>
+
 ## App requirements
 A simple app to search for and retrieve student(s) information like Name, Email, Batch, USN, ID, Section stored in a database and display in a table.  A wireframe is as below:
 <p align="center">
