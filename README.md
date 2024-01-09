@@ -20,10 +20,17 @@ A simple app to search for and retrieve student(s) information like Name, Email,
 ## Software stack
 - Python 3.9
 - Flask 2.2.3
-- Flask-Cors 3.0.10
-- flaskwebgui 1.0.8
+- Flask-Cors 3.0.10 (for managing [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS))
+- Flaskwebgui 1.0.8
 - SQLite3
 - HTML, CSS, JavaScript, RESTful API
+
+## Installation
+- Python: https://www.python.org/downloads/
+- Flask: pip install flask
+- Flask-Cors: pip install flask_cors
+- Flaskwebgui: pip install flaskwebgui
+- SQLite3: https://www.sqlite.org/download.html
 
 ## Source Code
 The [source](https://github.com/svaidyans/Flask/tree/main/source) folder contains all the source code.
@@ -31,5 +38,5 @@ The [source](https://github.com/svaidyans/Flask/tree/main/source) folder contain
 ## Desktop Apps
 Another advantage of developing a desktop app with Flask (using package FlaskWebGui) is that it just spawns a new flask server thread with a browser, making the app a [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) with just 2 additional lines of code!  
 
-The desktop apps are available in the [dapps](https://github.com/svaidyans/Flask/tree/main/dapps) folder.  
+The desktop apps zip file is available in the [dapps](https://github.com/svaidyans/Flask/tree/main/dapps) folder.  
 
