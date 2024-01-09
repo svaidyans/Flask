@@ -27,5 +27,7 @@ The intention is search for and retrieve student(s) information like Name, Email
 The [source](https://github.com/svaidyans/Flask/tree/main/source) folder contains the Python and HTML code.
 
 ## Desktop Apps
-Another advantage of developing desktop app with Flask (using package FlaskWebGui) is that it just spawns a new flask server thread with a browser - so the look and feel is same as web app.  The desktop apps are available in the [dapps](https://github.com/svaidyans/Flask/tree/main/dapps) folder.  
+Another advantage of developing a desktop app with Flask (using package FlaskWebGui) is that it just spawns a new flask server thread with a browser, making the app a [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps).  
+
+The desktop apps are available in the [dapps](https://github.com/svaidyans/Flask/tree/main/dapps) folder.  
 
