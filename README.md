@@ -27,9 +27,9 @@ A simple app to search for and retrieve student(s) information like Name, Email,
 
 ## Installation
 - Python: https://www.python.org/downloads/
-- Flask: pip install flask
-- Flask-Cors: pip install flask_cors
-- Flaskwebgui: pip install flaskwebgui
+- Flask: pip3 install flask
+- Flask-Cors: pip3 install flask_cors
+- Flaskwebgui: pip3 install flaskwebgui
 - SQLite3: https://www.sqlite.org/download.html
 
 ## Source Code
