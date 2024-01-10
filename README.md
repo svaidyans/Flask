@@ -46,13 +46,12 @@ The database table is populated with synthetic dummy data for privacy reasons.  
 The [source](https://github.com/svaidyans/Flask/tree/main/source) folder contains all the source code.
 
 ## Running the apps
-### Web App
+- Web App
 - From a Terminal (Mac) or Command Prompt (Windows) run "python3 flask_webapp_demo.py"
 - Open "index.html" in a browser tab
-<br />
 <i>A representative cloud deployment of the web app is available at https://bit.ly/flsk-vs</i>. 
 
-### Mac/Windows App
+- Mac/Windows App
 - From a Terminal (Mac) or Command Prompt (Windows) run "python3 flask_webgui_demo.py"
 - This will automatically open a desktop window with the front-end HTML code
 
