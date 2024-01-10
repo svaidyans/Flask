@@ -46,14 +46,15 @@ The database table is populated with synthetic dummy data for privacy reasons.  
 The [source](https://github.com/svaidyans/Flask/tree/main/source) folder contains all the source code.
 
 ## Running the apps
-- Web App
-- From a Terminal (Mac) or Command Prompt (Windows) run "python3 flask_webapp_demo.py"
-- Open "index.html" in a browser tab
-<i>A representative cloud deployment of the web app is available at https://bit.ly/flsk-vs</i>. 
+- **Web App**
+  - From a Terminal (Mac) or Command Prompt (Windows) run "python3 flask_webapp_demo.py"
+  - Open "index.html" in a browser tab    
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>A representative cloud deployment of the web app is available at https://bit.ly/flsk-vs</i>. 
 
-- Mac/Windows App
-- From a Terminal (Mac) or Command Prompt (Windows) run "python3 flask_webgui_demo.py"
-- This will automatically open a desktop window with the front-end HTML code
+- **Mac/Windows App**
+  - From a Terminal (Mac) or Command Prompt (Windows) run "python3 flask_webgui_demo.py"
+  - This will automatically open a desktop window with the front-end HTML code
 
 ## Desktop Apps
 Another advantage of developing a desktop app with Flask (using package FlaskWebGui) is that it just spawns a new flask server thread with a browser, making the app a [PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps) with just 2 additional lines of code!  
