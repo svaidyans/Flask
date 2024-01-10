@@ -45,7 +45,7 @@ The database table is populated with synthetic dummy data for privacy reasons.  
 ## Source Code
 The [source](https://github.com/svaidyans/Flask/tree/main/source) folder contains all the source code.
 
-## Running
+## Running the apps
 ### Web App
 - From a Terminal (Mac) or Command Prompt (Windows) run "python3 flask_webapp_demo.py"
 - Open "index.html" in a browser tab
