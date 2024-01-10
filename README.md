@@ -17,7 +17,9 @@ A representative architecture of a Flask app is as below:
 </p>
 
 ## App requirements
-A simple app to search for and retrieve student(s) information like Name, Email, Batch, USN, ID, Section stored in a database and display in a table.  A wireframe is as below:
+A simple app will be developed to search for and retrieve student(s) information like Name, Email, Batch, USN, ID, Section stored in a database and display in a table.  
+
+A wireframe is as below:
 <p align="center">
   <img src="images/sis.png"></img>
 </p>
@@ -29,6 +31,9 @@ A simple app to search for and retrieve student(s) information like Name, Email,
 - Flaskwebgui 1.0.8
 - SQLite3
 - HTML, CSS, JavaScript, RESTful API
+
+## Database
+The database will be populated with synthetic dummy data for privacy reasons.  The SQLite database is available in the [source](https://github.com/svaidyans/Flask/tree/main/source) folder as "students.db".
 
 ## Installation
 - Python: https://www.python.org/downloads/
