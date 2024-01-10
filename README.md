@@ -50,7 +50,7 @@ The [source](https://github.com/svaidyans/Flask/tree/main/source) folder contain
   - From a Terminal (Mac) or Command Prompt (Windows) run "python3 flask_webapp_demo.py"
   - Open "index.html" in a browser tab    
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>A representative cloud deployment of the web app is available at https://bit.ly/flsk-vs</i>. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>A representative cloud deployment of the web app is available at https://bit.ly/flsk-vs</i>. 
 
 - **Mac/Windows App**
   - From a Terminal (Mac) or Command Prompt (Windows) run "python3 flask_webgui_demo.py"
