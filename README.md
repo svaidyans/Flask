@@ -33,7 +33,7 @@ A wireframe is as below:
 - HTML, CSS, JavaScript, RESTful API
 
 ## Database
-The database will be populated with synthetic dummy data for privacy reasons.  The SQLite database is available in the [source](https://github.com/svaidyans/Flask/tree/main/source) folder as "students.db".
+The database table is populated with synthetic dummy data for privacy reasons.  The SQLite database is available in the [source](https://github.com/svaidyans/Flask/tree/main/source) folder as "students.db" and table name is "students".
 
 ## Installation
 - Python: https://www.python.org/downloads/
