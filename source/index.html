@@ -81,8 +81,9 @@
             }
 
             function txtNameEnterFunction( event ) {
-                    let key = event.code;
-                    if ( key == "Enter" ) getName();
+                let key1 = event.key;
+                let key2 = event.code;
+                if ( key1 == "Enter" || key2 == "Enter" ) getName();
             }
 
             function getName() {
